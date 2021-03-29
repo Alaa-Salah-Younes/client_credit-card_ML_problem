@@ -44,3 +44,9 @@ In their paper "The comparisons of data mining techniques for the predictive acc
         PAY_AMT5: Amount of previous payment (NT dollar). Amount paid in May, 2005.
         PAY_AMT6: Amount of previous payment (NT dollar). Amount paid in June, 2005.
         dpnm: Default payment next month.(Yes = 1, No = 0)
+        
+ ### Here we are going to test 4 models:
+  1. Logistic regression
+  2. SVM
+  3. XGBoost
+  4. Neural Network

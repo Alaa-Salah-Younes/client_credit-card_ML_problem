@@ -2,14 +2,14 @@
 
 
 ## Introduction
-This notebook was created for analysis and prediction making of the Default of credit card clients Data Set from UCI Machine Learning Library. The data set can be accessed separately from the UCI Machine Learning Repository page, here.
+This notebook was created for analysis and prediction making of the Default of credit card clients Data Set from UCI Machine Learning Library. The data set can be accessed separately from the UCI Machine Learning Repository page, [here](https://archive.ics.uci.edu/ml/datasets/default+of+credit+card+clients).
 
 
 
 
 
 ## Relevant Papers
-In their paper "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. (Yeh I. C. & Lien C. H.,2009)", which can be found here, Yeh I. C. & Lien C. H. review six data mining techniques (discriminant analysis, logistic regression, Bayesclassifier, nearest neighbor, artificial neural networks, and classification trees) and their applications on credit scoring. Then, using the real cardholders’ credit risk data in Tai-wan, they compare the classification accuracy among them.
+In their paper "The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. (Yeh I. C. & Lien C. H.,2009)", which can be found [here](https://bradzzz.gitbooks.io/ga-dsi-seattle/content/dsi/dsi_05_classification_databases/2.1-lesson/assets/datasets/DefaultCreditCardClients_yeh_2009.pdf), Yeh I. C. & Lien C. H. review six data mining techniques (discriminant analysis, logistic regression, Bayesclassifier, nearest neighbor, artificial neural networks, and classification trees) and their applications on credit scoring. Then, using the real cardholders’ credit risk data in Tai-wan, they compare the classification accuracy among them.
 
 
 
